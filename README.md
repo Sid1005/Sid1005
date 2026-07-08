@@ -13,9 +13,10 @@
 
 ### My website **[siddharth-ceri.vercel.app](https://siddharth-ceri.vercel.app/)**
 
-Currently a Software Engineer (MTS Intern) at **Nutanix** in Bangalore, India, where I built an AI-powered bug-fixing agent that saves developers 3–4 hours of manual work every day. I'm pursuing an **MSc in Mathematics + BE in Computer Science at BITS Pilani, Hyderabad** (Class of 2026).
+Currently a Software Engineer (MTS Intern) at **Nutanix** in Bangalore, India. Built an AI-powered bug-fixing agent that saves developers 3–4 hours of manual work every day. 
+I'm pursuing an **MSc in Mathematics + BE in Computer Science at BITS Pilani, Hyderabad** (Class of 2026).
 
-Outside of code, I co-founded **Slowcialize**, an intentional social platform for close friends, and captained my college's Ultimate Frisbee team — scaling it from 13 to 52 players and leading it to a **2nd-place national finish**.
+Outside of code, I co-founded **Slowcialize**, an intentional social platform for close friends, and captained my college's Ultimate Frisbee team to **2nd best in the country**.
 
 ---
 
@@ -30,7 +31,7 @@ Outside of code, I co-founded **Slowcialize**, an intentional social platform fo
 
 ---
 
-### 🛠️ Tech I work with
+### Tech I work with
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
