@@ -1,34 +1,32 @@
-<h1 align="center">Hi, I'm Siddharth Ceri 👋</h1>
+<h1 align="center">Hi, I'm Siddharth Ceri</h1>
 
 <p align="center">
   <b>Founder. Captain. Engineer.</b><br>
-  I build products and lead teams to solve real problems.
 </p>
 
 <p align="center">
   <a href="https://siddharth-ceri.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/siddharthceri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:siddharth.ceri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### 👉 Want the full story? **[siddharth-ceri.vercel.app](https://siddharth-ceri.vercel.app/)**
+### My website **[siddharth-ceri.vercel.app](https://siddharth-ceri.vercel.app/)**
 
-Full-stack engineer and entrepreneur based in Bangalore, India. Currently a Software Engineer (MTS Intern) at **Nutanix**, where I built an AI-powered bug-fixing agent that saves developers 3–4 hours of manual work every day. I'm pursuing an **MSc in Mathematics + BE in Computer Science at BITS Pilani, Hyderabad** (Class of 2026).
+Currently a Software Engineer (MTS Intern) at **Nutanix** in Bangalore, India, where I built an AI-powered bug-fixing agent that saves developers 3–4 hours of manual work every day. I'm pursuing an **MSc in Mathematics + BE in Computer Science at BITS Pilani, Hyderabad** (Class of 2026).
 
 Outside of code, I co-founded **Slowcialize**, an intentional social platform for close friends, and captained my college's Ultimate Frisbee team — scaling it from 13 to 52 players and leading it to a **2nd-place national finish**.
 
 ---
 
-### 🚀 What I'm building
+### What I'm building
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
 | **Dash** | A personal OS for task & life tracking | Next.js · TypeScript · Supabase · Telegram Bot | [Code](https://github.com/Sid1005/dash) · [Demo](https://youtu.be/6lsnPYy0yNE) |
 | **Slowcialize** | A calm social platform for close friends (380+ users at launch) | Django · PostgreSQL | [Code](https://github.com/Sid1005/slowcialize) · [Demo](https://www.youtube.com/watch?v=KRLDor1YZ8c) |
 | **Agent Mission Control** | Task & cron-job monitoring system | Rust · PostgreSQL | [Code](https://github.com/Sid1005/agent-mission-control) |
-| **Haskell Language Server** | OSS contribution — improved Cabal autocomplete | Haskell | [PR #4535](https://github.com/haskell/haskell-language-server/pull/4535) |
+| **Haskell Language Server** | OSS contribution, improved Cabal autocomplete | Haskell | [PR #4535](https://github.com/haskell/haskell-language-server/pull/4535) |
 
 ---
 
@@ -46,18 +44,11 @@ Outside of code, I co-founded **Slowcialize**, an intentional social platform fo
 
 ---
 
-### 💼 Experience & Education
+### Experience & Education
 
-- **Nutanix** — MTS Intern · built an AI bug-fixing agent (saves 3–4 hrs/dev/day)
+- **Nutanix** — MTS Intern · Network Security · built an AI bug-fixing agent 
 - **Avidia Labs** — Business Development Intern (EdTech) · built AR/VR learning games
 - **BITS Pilani, Hyderabad** — MSc Mathematics + BE Computer Science, 2026 · CGPA 8.94/10
 - **GMAT Focus** — 725 (99th percentile)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sid1005&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1005&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160">
-</p>
-
-<p align="center"><i>Building AI agents, personal productivity systems, and anything that makes engineering faster.</i></p>
