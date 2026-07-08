@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siddharth Ceri</h1>
 
 <p align="center">
-  <b>Founder. Captain. Engineer.</b><br>
+  <b>MTS Intern @Nutanix. BITS Pilani Hyd. Founder. Captain. Engineer.</b><br>
 </p>
 
 <p align="center">
