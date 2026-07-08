@@ -11,9 +11,9 @@
 
 ---
 
-### My website **[siddharth-ceri.vercel.app](https://siddharth-ceri.vercel.app/)**
+### My website -> **[siddharth-ceri.vercel.app](https://siddharth-ceri.vercel.app/)**
 
-Currently a Software Engineer (MTS Intern) at **Nutanix** in Bangalore, India. Built an AI-powered bug-fixing agent that saves developers 3–4 hours of manual work every day. 
+Currently a Software Engineering Intern at **Nutanix** in Bangalore, India. Built an AI-powered bug-fixing agent that saves developers 3–4 hours of manual work every day.<br>
 I'm pursuing an **MSc in Mathematics + BE in Computer Science at BITS Pilani, Hyderabad** (Class of 2026).
 
 Outside of code, I co-founded **Slowcialize**, an intentional social platform for close friends, and captained my college's Ultimate Frisbee team to **2nd best in the country**.
@@ -23,7 +23,7 @@ Outside of code, I co-founded **Slowcialize**, an intentional social platform fo
 ### What I'm building
 
 | Project | What it is | Stack | Links |
-|---|---|---|---|
+| :--- | :--- | :--- | :--- |
 | **Dash** | A personal OS for task & life tracking | Next.js · TypeScript · Supabase · Telegram Bot | [Code](https://github.com/Sid1005/dash) · [Demo](https://youtu.be/6lsnPYy0yNE) |
 | **Slowcialize** | A calm social platform for close friends (380+ users at launch) | Django · PostgreSQL | [Code](https://github.com/Sid1005/slowcialize) · [Demo](https://www.youtube.com/watch?v=KRLDor1YZ8c) |
 | **Agent Mission Control** | Task & cron-job monitoring system | Rust · PostgreSQL | [Code](https://github.com/Sid1005/agent-mission-control) |
