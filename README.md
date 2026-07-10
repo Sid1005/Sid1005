@@ -25,7 +25,7 @@ Outside of code, I co-founded **Slowcialize**, an intentional social platform fo
 | Project | What it is | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Dash** | A personal OS for task & life tracking | Next.js · TypeScript · Supabase · Telegram Bot | [Code](https://github.com/Sid1005/dash) · [Demo](https://youtu.be/6lsnPYy0yNE) |
-| **Slowcialize** | A calm social platform for close friends (380+ users at launch) | Django · PostgreSQL | [Code](https://github.com/Sid1005/slowcialize) · [Demo](https://www.youtube.com/watch?v=KRLDor1YZ8c) |
+| **Slowcialize** | A calm social platform for close friends (380+ users at launch) | Django · PostgreSQL | [Code](https://github.com/VardhanMahajan/slowcialize) · [Demo](https://www.youtube.com/watch?v=KRLDor1YZ8c) |
 | **Agent Mission Control** | Task & cron-job monitoring system | Rust · PostgreSQL | [Code](https://github.com/Sid1005/agent-mission-control) |
 | **Haskell Language Server** | OSS contribution, improved Cabal autocomplete | Haskell | [PR #4535](https://github.com/haskell/haskell-language-server/pull/4535) |
 
