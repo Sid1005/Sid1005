@@ -1,21 +1,42 @@
 # Hi, I am Siddharth Ceri
 
-## Products
+Software Intern @ Nutanix | BITS Pilani Hyderabad
 
-- **Nutanix Bug Fixer.** I built an agentic pipeline that turns a Jira ticket into a tested, review-ready PR. It pulls the ticket, generates the fix, greps internal API definitions for only the context it needs, runs the tests, and raises the CR.
-- **Slowcialize.** A social media platform designed to make you spend as little time on it as possible. Reels and infinite scroll turn into quick updates from your closest friends. 380 users. [Code](https://github.com/VardhanMahajan/slowcialize) · [Demo](https://youtu.be/KRLDor1YZ8c)
-- **Dash.** My personal OS: tasks, events, spending, workouts, and life tracking. It runs through a Telegram bot and an iPhone shortcut, and I use it every day. Next.js, TypeScript, Supabase. [Code](https://github.com/Sid1005/dash) · [Demo](https://youtu.be/6lsnPYy0yNE)
+[Portfolio](https://siddharth-ceri.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/siddharthceri)
+
+## Shipped
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Nutanix Bug Fixer** | Agentic pipeline that turns a Jira ticket into a tested, review-ready PR. Pulls the ticket, generates the fix, greps internal API definitions for only the context it needs, runs the tests, and raises the CR. | Python, LLM agents, Jira API, internal APIs | [Demo](https://siddharth-ceri.vercel.app/) |
+| **Slowcialize** | Social media platform designed to make you spend as little time on it as possible. Reels and infinite scroll turn into quick updates from your closest friends. 380 users. | Django, PostgreSQL | [Code](https://github.com/VardhanMahajan/slowcialize) · [Demo](https://youtu.be/KRLDor1YZ8c) |
+| **Dash** | My personal OS: tasks, events, spending, workouts, and life tracking. Runs through a Telegram bot and an iPhone shortcut. I use it every day. | Next.js, TypeScript, Supabase | [Code](https://github.com/Sid1005/dash) · [Demo](https://youtu.be/6lsnPYy0yNE) |
 
 ## AI agents
 
-- **Ollama Phone Pilot.** I wanted Ollama to run my life, so I started by letting it control my phone and my laptop. A local Gemma 12B reads the screen with OCR, clicks buttons, and sends messages. Zero token costs. [Code](https://github.com/Sid1005/ollama-phone-pilot)
-- **IT Agent Lab.** A browser agent that opens the browser and resolves real IT tickets. Two mandatory safety guards that fail closed, PII redaction, and head-to-head evals of Groq vs OpenCode models. [Code](https://github.com/Sid1005/it-agent-lab) · [Live demo](LIVE_DEMO_URL)
-- **Amazon & Blinkit Price Intelligence.** Price prediction across product classes, plus a RAG substitution engine. Retrieval sharply lifted catalog and price accuracy. [Code](https://github.com/Sid1005/amazon-blinkit-price-intelligence)
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **Ollama Phone Pilot** | I wanted Ollama to run my life, so I started by letting it control my phone and my laptop. A local Gemma 12B reads the screen with OCR, clicks buttons, and sends messages. Zero token costs. | Python, Ollama, Gemma 12B, OCR | [Code](https://github.com/Sid1005/ollama-phone-pilot) |
+| **IT Agent Lab** | Browser agent that opens the browser and resolves real IT tickets. Two mandatory safety guards that fail closed, PII redaction, and head-to-head evals of Groq vs OpenCode models. | Python, Groq, OpenCode | [Code](https://github.com/Sid1005/it-agent-lab) |
+| **Amazon & Blinkit Price Intelligence** | Price prediction across product classes, plus a RAG substitution engine. Retrieval sharply lifted catalog and price accuracy. | Python, RAG | [Code](https://github.com/Sid1005/amazon-blinkit-price-intelligence) |
+| **ceri-gbrain** | Four coding agents (Claude Code, Codex, Hermes, Antigravity) auto-save learnings to one shared Postgres brain on my VM. | Python, Postgres, systemd | [Code](https://github.com/Sid1005/ceri-gbrain) |
+| **agent-mission-control** | Monitors my agents' tasks and cron jobs. | Rust, PostgreSQL | [Code](https://github.com/Sid1005/agent-mission-control) |
 
-| Project | What it does | Stack |
-|---|---|---|
-| [ceri-gbrain](https://github.com/Sid1005/ceri-gbrain) | Four coding agents (Claude Code, Codex, Hermes, Antigravity) auto-save learnings to one shared Postgres brain on my VM | Python, Postgres, systemd |
-| [agent-mission-control](https://github.com/Sid1005/agent-mission-control) | Monitors my agents' tasks and cron jobs | Rust, PostgreSQL |
+## Tech I use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ## ML fundamentals
 
