@@ -8,7 +8,7 @@ Software Intern @ Nutanix | BITS Pilani Hyderabad
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| **Nutanix Bug Fixer** | Agentic pipeline that turns a Jira ticket into a tested, review-ready PR. Pulls the ticket, generates the fix, greps internal API definitions for only the context it needs, runs the tests, and raises the CR. | Python, LLM agents, Jira API, internal APIs | [Demo](https://siddharth-ceri.vercel.app/) |
+| **Nutanix Bug Fixer** | Agentic pipeline that turns a Jira ticket into a tested, review-ready PR. Pulls the ticket, generates the fix, greps internal API definitions for only the context it needs, runs the tests, and raises the CR. | Python, LLM agents, Jira API, internal APIs | [Demo](https://jira-to-github-demo.vercel.app/) |
 | **Slowcialize** | Social media platform designed to make you spend as little time on it as possible. Reels and infinite scroll turn into quick updates from your closest friends. 380 users. | Django, PostgreSQL | [Code](https://github.com/VardhanMahajan/slowcialize) · [Demo](https://youtu.be/KRLDor1YZ8c) |
 | **Dash** | My personal OS: tasks, events, spending, workouts, and life tracking. Runs through a Telegram bot and an iPhone shortcut. I use it every day. | Next.js, TypeScript, Supabase | [Code](https://github.com/Sid1005/dash) · [Demo](https://youtu.be/6lsnPYy0yNE) |
 
