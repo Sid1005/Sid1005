@@ -17,7 +17,7 @@ Software Intern @ Nutanix | BITS Pilani Hyderabad
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | **Ollama Phone Pilot** | I wanted Ollama to run my life, so I started by letting it control my phone and my laptop. A local Gemma 12B reads the screen with OCR, clicks buttons, and sends messages. Zero token costs. | Python, Ollama, Gemma 12B, OCR | [Code](https://github.com/Sid1005/ollama-phone-pilot) |
-| **IT Agent Lab** | Browser agent that opens the browser and resolves real IT tickets. Two mandatory safety guards that fail closed, PII redaction, and head-to-head evals of Groq vs OpenCode models. | Python, Groq, OpenCode | [Code](https://github.com/Sid1005/it-agent-lab) |
+| **IT Agent Lab** | Browser agent that opens the browser and resolves real IT tickets. Two mandatory safety guards that fail closed, PII redaction, and head-to-head evals of Groq vs OpenCode models. | Python, Groq, OpenCode | [Code](https://github.com/Sid1005/it-agent-lab) · [Demo](https://support-agent-lab.vercel.app) |
 | **Amazon & Blinkit Price Intelligence** | Price prediction across product classes, plus a RAG substitution engine. Retrieval sharply lifted catalog and price accuracy. | Python, RAG | [Code](https://github.com/Sid1005/amazon-blinkit-price-intelligence) |
 | **ceri-gbrain** | Four coding agents (Claude Code, Codex, Hermes, Antigravity) auto-save learnings to one shared Postgres brain on my VM. | Python, Postgres, systemd | [Code](https://github.com/Sid1005/ceri-gbrain) |
 | **agent-mission-control** | Monitors my agents' tasks and cron jobs. | Rust, PostgreSQL | [Code](https://github.com/Sid1005/agent-mission-control) |
